@@ -23,6 +23,6 @@ Examples and documentation for using the applications will be provided in separa
 Welcome contributions from the community! Please refer guidelines for contributing.
 
 
-## Licence
+## License
 
 This repository is subject to the MIT License.
